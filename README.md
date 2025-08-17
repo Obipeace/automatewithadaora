@@ -11,7 +11,7 @@ This website includes:
 - **Hire Me**: Services I offer for automation and sales optimization.
 
 ## Deployment
-Hosted on Vercel: [obi-peace-website.vercel.app](https://automatewithadaora.vercel.app/)
+Hosted on Vercel: [https://automatewithadaora.vercel.app/](https://automatewithadaora.vercel.app/)
 ## Contact
 Email: peaceobiadaora@gmail.com
 LinkedIn: [linkedin.com/in/obipeace](https://www.linkedin.com/in/obi-peace-adaora?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
