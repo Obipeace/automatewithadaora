@@ -1,2 +1,18 @@
-# Obi Peace Adaora
-Learn how to automate your sales flow process, outcompeting your competitors. 
+# Obi Peace’s Personal Website
+
+Welcome to the repository for my personal website, showcasing my expertise as a Sales Operations Manager and automation expert with tools like n8n, Make.com, and Zapier.
+
+## About
+This website includes:
+- **Home**: Introduction to my work.
+- **About**: My background in sales operations and automation.
+- **Portfolio**: Projects using n8n, Make.com, and Zapier.
+- **Contact**: Ways to reach me.
+- **Hire Me**: Services I offer for automation and sales optimization.
+
+## Deployment
+Hosted on Vercel: [obi-peace-website.vercel.app](https://obi-peace-website.vercel.app)
+
+## Contact
+Email: obi.peace@example.com
+LinkedIn: [linkedin.com/in/obipeace](https://linkedin.com/in/obipeace)
